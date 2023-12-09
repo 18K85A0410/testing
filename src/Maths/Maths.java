@@ -16,6 +16,9 @@ public class Maths {
 	public void mul(int s, int t) {
 		int u = s*t;
 		System.out.println("The multiplication of two numbers is"+s+"*"+t+"="+u);
+
+		System.out.println("hai");
 	}
 
+	
 }
